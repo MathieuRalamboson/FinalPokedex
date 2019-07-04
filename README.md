@@ -16,10 +16,10 @@ Réalisation d'une application android sous AndroidStudio utilisant une API rest
 - Toast
 
 #Premier Ecran
-- Affichage de la lister des Pokemon
-- Affichage de l'image de chaque Pokemon
+- Affichage de la liste des Pokemon
+- Affichage de l'image de chaque Pokemon avec son nom en dessous
 - Scrolling 20 par 20
 
 #Deuxième Ecran
-- Affichage du Pokemon choisi
-- Detail du Pokemon
+- Affichage des details du Pokemon choisi
+- Detail du Pokemon : Poid , taille, type ,faiblesse
