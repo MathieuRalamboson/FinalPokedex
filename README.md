@@ -4,6 +4,8 @@ AndroidPokedex by Mathieu Ralamboson ESIEA
 Projet individuel 3A
 
 Réalisation d'une application android sous AndroidStudio utilisant 2 API rest
+Vous pourrez trouver dans un autre de mes répertoire à ce lien: https://github.com/MathieuRalamboson/MathieuRalambosonAndroid
+, mes anciens commites qui sont lier à AndroidPokedex.
 
 # Consigne respectées :
 - Deux écrans : Un écran avec une liste et un écran avec des détail du Pokemon.
