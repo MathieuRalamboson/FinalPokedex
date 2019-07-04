@@ -3,10 +3,10 @@ AndroidPokedex by Mathieu Ralamboson ESIEA
 
 Projet individuel 3A
 
-Réalisation d'une application android sous AndroidStudio utilisant une API rest
+Réalisation d'une application android sous AndroidStudio utilisant 2 API rest
 
 # Consigne respectées :
-- Deux écrans : Un écran avec une liste et un écran avec un détail de l'item.
+- Deux écrans : Un écran avec une liste et un écran avec des détail du Pokemon.
 - Appel WebService à une API Rest. (2 Api différentes utilisé)
 - Stockage des données en cache.
 
